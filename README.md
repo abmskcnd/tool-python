@@ -26,7 +26,7 @@ pip install beautifulsoup4 openpyxl
 ### Cú pháp cơ bản:
 
 ```bash
-python htm_to_excel.py --input <folder_chứa_file_htm> --output <folder_output>
+python htm_to_excel.py --input <folder_chứa_file_htm> --output <folder_output> 
 ```
 
 ### Ví dụ:
